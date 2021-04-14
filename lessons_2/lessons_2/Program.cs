@@ -8,12 +8,12 @@ namespace lessons_2
         {
             int num, num_1 ;
             
+            //Типы переменных
             //uint num_1 = 10;
             //float f = 1.23f;
             //bool boolean = false;
             //string text = "Work";
             //char n = 'W';
-
 
             Console.WriteLine("Enter first num: ");
             num = Convert.ToInt32 (Console.ReadLine());
