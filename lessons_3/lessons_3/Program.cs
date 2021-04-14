@@ -6,18 +6,33 @@ namespace lessons_3
     {
         static void Main(string[] args)
         {
-            double num;
+            Random randNum = new Random();
+
+            int num;
             Console.WriteLine("How old are you?");
-            num = Convert.ToDouble(Console.ReadLine());
+            num = randNum.Next(0, 6);
 
-            if (num > 18.23d && num <25.34d)
-                Console.WriteLine("You are older than 18.23");
-            else
-                Console.WriteLine("Else");
+            switch (num)
+            {
+                case 1: Console.WriteLine("Resultat " +num);
+                    break;
+                case 2:
+                    Console.WriteLine("Resultat " + num);
+                    break;
+                case 3:
+                    Console.WriteLine("Resultat " + num);
+                    break;
+                case 4:
+                    Console.WriteLine("Resultat " + num);
+                    break;
+                case 5:
+                    Console.WriteLine("Resultat " + num);
+                    break;
+                default:
+                    Console.WriteLine("Nothing " + num);
+                    break;
+            }
 
-            string name = num == 15 ? "First" : "Second";
-            Console.WriteLine(name);
-            
             Console.ReadKey();
         }
     }
