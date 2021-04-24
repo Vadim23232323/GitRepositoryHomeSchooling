@@ -10,6 +10,25 @@ namespace lessons_12
         public int course;
         public bool grants;
 
+
+        public int Course
+        {
+            get
+            {
+                return course;
+
+            }
+            set
+            {
+                if (value < 1)
+                    course = 1;
+                else if (value > 5)
+                    course = 5;
+                else
+                    course = value;
+                }
+        }
+
         public Student ()
         {
         name="Maksim";
@@ -83,7 +102,8 @@ class Program
             //Console.ReadKey();
 
             Student One = new Student();
-            Console.WriteLine();
+            One.course = 3;
+            Console.WriteLine(One.Course);
             Console.WriteLine("Enter name student");
             string name = Convert.ToString(Console.ReadLine());
             Console.WriteLine("Enter age student");
