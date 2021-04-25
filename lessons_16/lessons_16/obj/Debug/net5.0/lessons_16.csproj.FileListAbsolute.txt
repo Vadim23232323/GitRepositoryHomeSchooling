@@ -1,0 +1,16 @@
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.exe
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.deps.json
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.runtimeconfig.json
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.runtimeconfig.dev.json
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.dll
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\ref\lessons_16.dll
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\bin\Debug\net5.0\lessons_16.pdb
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.csprojAssemblyReference.cache
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.AssemblyInfoInputs.cache
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.AssemblyInfo.cs
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.csproj.CoreCompileInputs.cache
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.dll
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\ref\lessons_16.dll
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.pdb
+D:\GitRepositoryHomeSchooling\lessons_16\lessons_16\obj\Debug\net5.0\lessons_16.genruntimeconfig.cache
